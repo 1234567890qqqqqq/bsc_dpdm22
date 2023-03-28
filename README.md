@@ -15,6 +15,6 @@
 * [Rcode](https://kkumail-my.sharepoint.com/personal/suriya_pan_kkumail_com/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fsuriya%5Fpan%5Fkkumail%5Fcom%2FDocuments%2FDesktop%2FFinal%20ProjectR1%2Er&parent=%2Fpersonal%2Fsuriya%5Fpan%5Fkkumail%5Fcom%2FDocuments%2FDesktop&ga=1)
 * [R](https://kkumail-my.sharepoint.com/personal/suriya_pan_kkumail_com/_layouts/15/onedrive.aspx?ga=1&id=%2Fpersonal%2Fsuriya%5Fpan%5Fkkumail%5Fcom%2FDocuments%2FDesktop)
 ## Colab
-* [Project](https://colab.research.google.com/github/1234567890qqqqqq/bsc_dpdm22/blob/main/Project.ipynb)
+* [FinalProject](https://colab.research.google.com/github/1234567890qqqqqq/bsc_dpdm22/blob/main/Project.ipynb)
 ## Presentation
 * [Canva](https://www.canva.com/design/DAFeTiLGIWQ/N-PFvBlZZVoO1i79ZQMb3Q/view?utm_content=DAFeTiLGIWQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
