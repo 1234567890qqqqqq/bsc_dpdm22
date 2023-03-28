@@ -12,7 +12,7 @@
 2. นางสาวนารากร วรกุล 633020553-6
 3. นายสุริยา ปันดอน 633020554-4
 ## R
-* [Rcode]()
+* [Rcode](https://drive.google.com/file/d/1wZDpIyMLH5jz8tFrlTn1XV_cJWMyzGAQ/view?usp=share_link)
 ## Colab
 * [Project](https://colab.research.google.com/github/1234567890qqqqqq/bsc_dpdm22/blob/main/Project.ipynb)
 ## Presentation
