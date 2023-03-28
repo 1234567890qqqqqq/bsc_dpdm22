@@ -6,3 +6,14 @@
 - Homework (แบ่งกลุ่มใหม่ทุกครั้ง) 20%
 - Quiz (เดี่ยว ถามในห้อง) 10%
 
+
+# กลุ่ม Project : กลุ่ม 7
+1. นางสาวธนภรณ์ บุญหลักคำ 633020551-0
+2. นางสาวนารากร วรกุล 633020553-6
+3. นายสุริยา ปันดอน 633020554-4
+## R
+* [Rcode]()
+## Colab
+* [Project](https://colab.research.google.com/github/1234567890qqqqqq/bsc_dpdm22/blob/main/Project.ipynb)
+## Presentation
+* [Canva](https://www.canva.com/design/DAFeTiLGIWQ/N-PFvBlZZVoO1i79ZQMb3Q/view?utm_content=DAFeTiLGIWQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
